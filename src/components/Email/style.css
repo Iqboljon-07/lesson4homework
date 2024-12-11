@@ -1,0 +1,30 @@
+.email{
+
+    width: 300px;
+    height: 620px;
+    background-color: #ffffff;
+    position:fixed;
+    
+    top: 50%;
+    right: -7%;
+    
+    transform: translate(-50%, 6%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+  
+}
+
+.container1{
+    display: flex;
+    width:300px;
+    justify-content: space-evenly;
+    height:100px;
+  
+    align-items: center;
+    border-bottom: 1px solid black;
+   
+
+
+}
